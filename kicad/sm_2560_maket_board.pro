@@ -17,15 +17,15 @@ RptD_Y=100
 RptLab=1
 LabSize=60
 [eeschema/libraries]
-LibName1=components/library_kicad/LFbutton
-LibName2=components/library_kicad/LFcapitors
-LibName3=components/library_kicad/LFcomponents
-LibName4=components/library_kicad/LFconnectors
-LibName5=components/library_kicad/LFdiod
-LibName6=components/library_kicad/LFpower
-LibName7=components/library_kicad/LFresistor
-LibName8=components/library_kicad/LFtransformator
-LibName9=components/library_kicad/LFtransistor
+LibName1=../../kicad-components/library_kicad/LFbutton
+LibName2=../../kicad-components/library_kicad/LFcapitors
+LibName3=../../kicad-components/library_kicad/LFcomponents
+LibName4=../../kicad-components/library_kicad/LFconnectors
+LibName5=../../kicad-components/library_kicad/LFdiod
+LibName6=../../kicad-components/library_kicad/LFpower
+LibName7=../../kicad-components/library_kicad/LFresistor
+LibName8=../../kicad-components/library_kicad/LFtransformator
+LibName9=../../kicad-components/library_kicad/LFtransistor
 [pcbnew]
 version=1
 LastNetListRead=
@@ -47,7 +47,7 @@ BoardOutlineThickness="    0,381000"
 ModuleOutlineThickness="    0,254000"
 [pcbnew/libraries]
 LibDir=
-LibName1=components/mod_kicad/LFcomponents
-LibName2=components/mod_kicad/LFconnectors
-LibName3=components/mod_kicad/LFsmd_case
-LibName4=components/mod_kicad/LFtransformator
+LibName1=../../kicad-components/mod_kicad/LFcomponents
+LibName2=../../kicad-components/mod_kicad/LFconnectors
+LibName3=../../kicad-components/mod_kicad/LFsmd_case
+LibName4=../../kicad-components/mod_kicad/LFtransformator
